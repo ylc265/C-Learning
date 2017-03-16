@@ -40,12 +40,6 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="FileAsyncWriter.cs" />
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
