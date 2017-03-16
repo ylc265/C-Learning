@@ -1,0 +1,5 @@
+c:\users\daniche\documents\visual studio 2013\Projects\App1\App1\bin\Release\App1.exe.config
+c:\users\daniche\documents\visual studio 2013\Projects\App1\App1\bin\Release\App1.exe
+c:\users\daniche\documents\visual studio 2013\Projects\App1\App1\bin\Release\App1.pdb
+c:\users\daniche\documents\visual studio 2013\Projects\App1\App1\obj\Release\App1.exe
+c:\users\daniche\documents\visual studio 2013\Projects\App1\App1\obj\Release\App1.pdb
